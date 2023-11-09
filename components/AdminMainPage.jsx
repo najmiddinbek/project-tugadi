@@ -212,7 +212,7 @@ export default function page() {
                                 7.
                             </p>
                             <p className='text-[18px] poppins'>
-                                Bog' MFY
+                                Bog` MFY
                             </p>
                         </div>
                         <div className="flex gap-2">
@@ -233,7 +233,7 @@ export default function page() {
                                 8.
                             </p>
                             <p className='text-[18px] poppins'>
-                                O'rikzor MFY
+                                O`rikzor MFY
                             </p>
                         </div>
                         <div className="flex gap-2">
@@ -254,7 +254,7 @@ export default function page() {
                                 9.
                             </p>
                             <p className='text-[18px] poppins'>
-                                Chig'atoy MFY
+                                Chig`atoy MFY
                             </p>
                         </div>
                         <div className="flex gap-2">
@@ -443,7 +443,7 @@ export default function page() {
                                 18.
                             </p>
                             <p className='text-[18px] poppins'>
-                                Do'stlik MFY
+                                Do`stlik MFY
                             </p>
                         </div>
                         <div className="flex gap-2">
@@ -464,7 +464,7 @@ export default function page() {
                                 19.
                             </p>
                             <p className='text-[18px] poppins'>
-                                O'zbekiston MFY
+                                O`zbekiston MFY
                             </p>
                         </div>
                         <div className="flex gap-2">
@@ -653,7 +653,7 @@ export default function page() {
                                 28.
                             </p>
                             <p className='text-[18px] poppins'>
-                                Qorabog' MFY
+                                Qorabog` MFY
                             </p>
                         </div>
                         <div className="flex gap-2">
@@ -863,7 +863,7 @@ export default function page() {
                                 38.
                             </p>
                             <p className='text-[18px] poppins'>
-                                To'pqayrag'och MFY
+                                To`pqayrag`och MFY
                             </p>
                         </div>
                         <div className="flex gap-2">
@@ -926,7 +926,7 @@ export default function page() {
                                 41.
                             </p>
                             <p className='text-[18px] poppins'>
-                                Uzun ko'cha MFY
+                                Uzun ko`cha MFY
                             </p>
                         </div>
                         <div className="flex gap-2">
@@ -1010,7 +1010,7 @@ export default function page() {
                                 45.
                             </p>
                             <p className='text-[18px] poppins'>
-                                Baliq ko'l MFY
+                                Baliq ko`l MFY
                             </p>
                         </div>
                         <div className="flex gap-2">
@@ -1031,7 +1031,7 @@ export default function page() {
                                 46.
                             </p>
                             <p className='text-[18px] poppins'>
-                                Bog'iston MFY
+                                Bog`iston MFY
                             </p>
                         </div>
                         <div className="flex gap-2">
@@ -1094,7 +1094,7 @@ export default function page() {
                                 49.
                             </p>
                             <p className='text-[18px] poppins'>
-                                To'riq MFY
+                                To`riq MFY
                             </p>
                         </div>
                         <div className="flex gap-2">
@@ -1136,7 +1136,7 @@ export default function page() {
                                 51.
                             </p>
                             <p className='text-[18px] poppins'>
-                                Bo'lon MFY
+                                Bo`lon MFY
                             </p>
                         </div>
                         <div className="flex gap-2">

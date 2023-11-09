@@ -127,25 +127,25 @@ const PupilsAddClient = () => {
                             <option>Bu yerdan tanlang</option>
                             <option>OYQIRON MFY</option>
                             <option>NAMANGAN MFY</option>
-                            <option>BAG'RIKENGLIK MFY</option>
+                            <option>BAG`RIKENGLIK MFY</option>
                             <option>ALIXON MFY</option>
-                            <option>ARBAG'ISH MFY</option>
-                            <option>BALIQ KO'L MFY</option>
+                            <option>ARBAG`ISH MFY</option>
+                            <option>BALIQ KO`L MFY</option>
                             <option>BAYNALMINAL MFY</option>
                             <option>BESHKAPA MFY</option>
                             <option>BESHTOL MFY</option>
                             <option>BODOMZOR MFY</option>
-                            <option>BOG' MFY</option>
-                            <option>BOG'ISTON MFY</option>
+                            <option>BOG` MFY</option>
+                            <option>BOG`ISTON MFY</option>
                             <option>BOLON MFY</option>
                             <option>BOZORBOSHI MFY</option>
-                            <option>CHIG'ATOY</option>
+                            <option>CHIG`ATOY</option>
                             <option>CHORSU MFY</option>
                             <option>DAMARIQ MFY</option>
                             <option>DEHQONOBOD MFY</option>
                             <option>DILDOSH MFY</option>
                             <option>Z.DIYOR MFY</option>
-                            <option>DO'STLIK</option>
+                            <option>DO`STLIK</option>
                             <option>GULDIROV MFY</option>
                             <option>GULSHAN</option>
                             <option>IFTIXOR MFY</option>
@@ -160,7 +160,7 @@ const PupilsAddClient = () => {
                             <option>OBOD-DIYOR MFY</option>
                             <option>OQTERAK MFY</option>
                             <option>ORA-ARIQ MFY</option>
-                            <option>O'RIKOZOR MFY</option>
+                            <option>O`RIKOZOR MFY</option>
                             <option>OROMGOH MFY</option>
                             <option>QORAMURT MFY</option>
                             <option>SARKOR MFY</option>
@@ -170,11 +170,11 @@ const PupilsAddClient = () => {
                             <option>SOZ-SOY MFY</option>
                             <option>TENGDOSH MFY</option>
                             <option>TINCHLIK MFY</option>
-                            <option>TOPQAYRAG'OCH MFY</option>
+                            <option>TOPQAYRAG`OCH MFY</option>
                             <option>TORIQ MFY</option>
                             <option>TURKISTON MFY</option>
-                            <option>O'ZBEKISTON MFY</option>
-                            <option>UNUN KO'CHA MFY</option>
+                            <option>O`ZBEKISTON MFY</option>
+                            <option>UZUN KO`CHA MFY</option>
                             <option>XAYRLI MFY</option>
                             <option>XAZRATISHOX MFY</option>
                             <option>YANGIOBOD MFY</option>
